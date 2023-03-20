@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ByteBank.iml" filepath="$PROJECT_DIR$/ByteBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bybank-herdado/bybank-herdado.iml" filepath="$PROJECT_DIR$/bybank-herdado/bybank-herdado.iml" />
     </modules>
   </component>
 </project>
